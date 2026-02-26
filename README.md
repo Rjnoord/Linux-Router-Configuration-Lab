@@ -162,6 +162,8 @@ Security+ (In Progress)
 CCNA Next  
 
 ![linux_routing_homelab](linux_router_screenshot1.png)
+![linux_routing_homelab](linux_router_screenshot2.png)
+
 
 
 Building real infrastructure experience through consistent hands-on labs.
